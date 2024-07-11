@@ -31,9 +31,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinneyoo&" alt="nitinneyoo" /></p>
-<h3 align="left">Contributions:</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinneyoo/nitinneyoo/output/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/guptaashwanee/guptaashwanee/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</picturre>
+
+
