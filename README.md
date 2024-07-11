@@ -29,12 +29,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinneyoo&show_icons=true&locale=en" alt="nitinneyoo" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinneyoo&" alt="nitinneyoo" /></p>
 <h3 align="left">Contributions:</h3>
-<p align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00&theme=neon-dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00" />
-<img alt="Ashwanee Kumar Gupta" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00" />
-</picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinneyoo/nitinneyoo/output/github-contribution-grid-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/guptaashwanee/guptaashwanee/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</picturre>
