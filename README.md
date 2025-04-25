@@ -85,6 +85,8 @@ I share my learning journey on [Dev.to](https://dev.to/nitin.dev). Stay tuned fo
   </a>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinneyoo&" alt="nitinneyoo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinneyoo&show_icons=true&locale=en" alt="nitinneyoo" /></p>
 ## 🌐 Contributions & Achievements
 
 - **Open Source**: Actively contributing to React and TanStack projects.
