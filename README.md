@@ -84,7 +84,7 @@ I share my learning journey on [Dev.to](https://dev.to/nitin.dev). Stay tuned fo
     <img src="https://img.shields.io/badge/Email-nitinsinghji12%40gmail.com-red?style=flat&logo=gmail" alt="Email" />
   </a>
 </p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinneyoo&" alt="nitinneyoo" /></p>
 ## 🌐 Contributions & Achievements
 
 - **Open Source**: Actively contributing to React and TanStack projects.
