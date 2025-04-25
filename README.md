@@ -86,16 +86,6 @@ I share my learning journey on [Dev.to](https://dev.to/nitin.dev). Stay tuned fo
 </p>
 
 
-
-<h3 align="left">Coding Activity:</h3>
-<p align="center">
-<a href="#" target="_blank"><img
-			src="https://wakatime.com/share/@guptaashwanee/b8f39bd8-337c-4edb-a98d-14a554783d33.svg"
-			alt="nitinneyoo" /></a>
-
-</p>
-
-
 ## 🌐 Contributions & Achievements
 
 - **Open Source**: Actively contributing to React and TanStack projects.
