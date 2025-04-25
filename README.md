@@ -85,6 +85,24 @@ I share my learning journey on [Dev.to](https://dev.to/nitin.dev). Stay tuned fo
   </a>
 </p>
 
+<h3 align="left">Contributions:</h3>
+<p align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00&theme=neon-dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00" />
+<img alt="Nitin Singh" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00" />
+</picture>
+</p>
+
+<h3 align="left">Coding Stats:</h3>
+<p align="center">
+<a href="#" target="_blank"><img
+			src="https://github-readme-streak-stats.herokuapp.com/?user=nitinneyoo&" alt="nitinneyoo"
+			alt="Singhnitin" /></a>
+
+</p>
+
+
 ## 🌐 Contributions & Achievements
 
 - **Open Source**: Actively contributing to React and TanStack projects.
