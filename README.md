@@ -101,5 +101,3 @@ I share my learning journey on [Dev.to](https://dev.to/nitin.dev). Stay tuned fo
 - Launch my **portfolio website** in 2025.
 
 *Thanks for stopping by! Let's connect and build something awesome together. 🚀*
-
-*Generated with assistance from [Grok](https://x.ai), created by xAI.*
