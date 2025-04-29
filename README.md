@@ -85,16 +85,6 @@ I share my learning journey on [Dev.to](https://dev.to/nitin.dev). Stay tuned fo
   </a>
 </p>
 
-
-## 🌐 Contributions & Achievements
-
-- **Open Source**: Actively contributing to React and TanStack projects.
-- **Hackathons**: Built prototypes combining web and robotics in local coding events.
-- **Achievements**:
-  - 🥇 Earned 50+ stars across my GitHub repositories.
-  - 📚 Published technical articles on Dev.to.
-  - 🐳 Completed Docker fundamentals course.
-
 ## 🎯 What's Next?
 
 - Develop a **Next.js** e-commerce platform with **FramerMotion** animations.
