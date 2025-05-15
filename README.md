@@ -90,6 +90,8 @@ I share my learning journey on [Dev.to](https://dev.to/nitin.dev). Stay tuned fo
 <div align="left">
 
 [![Nitin's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Nitinneyoo&theme=dark)](#)</div>
+
+<figure><embed src="https://wakatime.com/share/@Nitinneyoo/33b12c04-680a-4764-aaaa-febe015bf488.svg"></embed></figure>
 </p>
 
 <p>
