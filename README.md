@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a software developer passionate about building web applications and exploring new technologies.
 
 ## 🌱 I’m currently learning
-- Node.js and TypeScript
+- Hono and TypeScript
 - Machine Learning and AI
 
 ## 👯 I’m looking to collaborate on
@@ -11,13 +11,12 @@ Welcome to my GitHub profile! I'm a software developer passionate about building
 - DevOps and automation tools
 
 ## 💬 Ask me about
-- JavaScript, Python, and Go
+- JavaScript, Python, and TypeScript
 - Cloud computing and containerization
 
 ## 📫 How to reach me
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
-- Twitter: https://twitter.com/your-handle
+- Email: nitinsinghji12@gamil.com
+- LinkedIn:https://www.linkedin.com/in/nitinneyoo/
 
 ## ⚡ Fun fact
 I love solving coding puzzles and contributing to the community!
